@@ -12,4 +12,6 @@ Expected format of hosts file:
 	192.168.1.1 hostname.com
 
 
+[Download](https://bitbucket.org/George_Hahn/hostswitcher/downloads/0424e2a.zip "Download")
+
 [Icon](http://capital18.deviantart.com/art/Capital-Icon-Suite-22951836 "Icon") by [Capital18](http://capital18.deviantart.com/ "Capital18"), [.ico](http://ipholio.deviantart.com/art/Capital-Icon-Suite-For-Windows-39645708 ".ico") from [ipholio](http://ipholio.deviantart.com/ "ipholio")
